@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesSuitmedia</string>
+    <string name="selected_us">Selected User Name</string>
+    <string name="title2">Second Screen</string>
+    <string name="title3">Third Screen</string>
+    <string name="name">John Doe</string>
+    <string name="choose_user">Choose a User</string>
+</resources>
